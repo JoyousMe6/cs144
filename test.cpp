@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
+
 int main() {
-	puts("Hello World!");
-	asdjlaisdj 
+	cout<<"Hello World"<<endl;	
 	return 0;
 }
